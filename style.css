@@ -1,0 +1,39 @@
+.title {
+  color: white;
+  background-color: rgb(206, 172, 131);
+  font-size: 24px;
+  padding: 4px 14px;
+  border-radius: 8px;
+}
+
+.background {
+  width: 360px;
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-grid.png");
+}
+
+.message {
+  font-weight: bold;
+}
+
+.object {
+  width: 160px;
+  height: 160px;
+}
+
+.image1 {
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-red.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.image2 {
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-lightred.png");
+  background-size: cover;
+  background-position: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+* {
+    font-family: 'East Sea Dokdo', cursive;
+}
+
